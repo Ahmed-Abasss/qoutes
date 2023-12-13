@@ -1,0 +1,39 @@
+header
+{
+    background-image: url(../imgs/mountains-best-for-desktop-background-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+}
+.row>*
+{
+    width: auto;
+}
+
+header h1
+{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+header p 
+{
+    font-size: 25px;
+}
+header #qoute , header #said-by
+ {
+    font-size: 25px;
+    font-family: 'Nova Square', sans-serif;
+    color: rgb(59, 21, 56);
+}
+
+button
+{
+    padding: 14px 35px;
+    border: none;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+button:hover{
+    background-color: rgb(71, 102, 104);;
+}
